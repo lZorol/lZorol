@@ -15,19 +15,28 @@
 
 # 👨‍💻 About Me
 
-💻 **Computer Science Student**\
-🎓 Laguna State Polytechnic University
+```bash
+                   -`                      carlo@archlinux
+                  .o+`                     -----------------
+                 `ooo/                     Name: Carlo James Arat
+                `+oooo:                    Role: Computer Science Student
+               `+oooooo:                   University: Laguna State Polytechnic University
+               -+oooooo+:                 
+             `/:-:++oooo+:                 Focus
+            `/++++/+++++++:                - Machine Learning
+           `/++++++++++++++:               - OCR Systems
+          `/+++ooooooooooooo/`             - Full Stack Development
+         ./ooosssso++osssssso+`            - Document Automation
+        .oossssso-````/ossssss+`          
+       -osssssso.      :ssssssso.         
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-        
+   `/ossssso+/:-        -:/+osssso+-      
+  `+sso+:-`                 `.-/+oso:     
+ `++:.                           `-/+/    
+ .`                                 `/    
 
-I build **AI powered systems, OCR pipelines, and full‑stack
-applications** that automate real-world workflows.
-
-🔬 Interests
-
--   Machine Learning Systems
--   OCR & Document Intelligence
--   Full‑Stack Web Development
--   Intelligent Automation
-
+```
 ------------------------------------------------------------------------
 
 # 🧰 Technology Stack
