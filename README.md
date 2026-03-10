@@ -56,12 +56,11 @@ applications** that automate real-world workflows.
 ------------------------------------------------------------------------
 
 # 📊 GitHub Statistics
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lZorol&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lZorol&layout=compact&theme=tokyonight&hide_border=true"/></p>
-
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lZorol&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lZorol&layout=compact&theme=tokyonight" />
+</p>
 ------------------------------------------------------------------------
 
 # 📈 Contribution Activity
