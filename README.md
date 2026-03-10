@@ -93,8 +93,7 @@
 
 📧 Email: **strawhat424@gmail.com**
 
-🐙 GitHub\
-https://github.com/lZorol
+🐙 GitHub: **https://github.com/lZorol**
 
 ------------------------------------------------------------------------
 
